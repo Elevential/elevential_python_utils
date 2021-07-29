@@ -1,7 +1,7 @@
 from openpyxl import Workbook
 
 
-def cria_arquivo_de_dicionario(dicionario_lista_dicionarios):
+def create_from_dict(dicionario_lista_dicionarios):
     """
     Função de criação genérica de arquivos .xlsx
 
