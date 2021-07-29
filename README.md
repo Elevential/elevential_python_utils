@@ -1,29 +1,10 @@
-# README #
+# Utilidades Python-Elevential #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Nesse repositório podem ser encontrados códigos python frequentemente utilizados em diversos projetos da Elevential
 
-### What is this repository for? ###
+# Utilizando:
+Para usar esse repositório no seu projeto, basta utilizar:
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## ⚠️ Cuidado ao editar ⚠️
+Ao editar uma função, tome cuidado para não quebrar versões antigas, pois existem projetos que dependem delas
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
